@@ -1,6 +1,22 @@
 [
   {
     "ContainingType": "ModuloAPI.Controllers.UsuarioController",
+    "Method": "Apresentar",
+    "RelativePath": "Usuario/Apresentar/{nome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ModuloAPI.Controllers.UsuarioController",
     "Method": "ObterDataHora",
     "RelativePath": "Usuario/ObterDataHoraAtual",
     "HttpMethod": "GET",
