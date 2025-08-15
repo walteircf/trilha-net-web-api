@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\moduloapi\\controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|solutionrelative:controllers\\usuariocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\moduloapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\moduloapi\\controllers\\valuescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|solutionrelative:controllers\\valuescontroller1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|c:\\users\\wcfre\\desktop\\end to end engineering c#\\modulo 4\\moduloapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C3FBD7-E15D-4140-B6C9-16A918BC7F84}|ModuloAPI.csproj|solutionrelative:controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UsuarioController.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\UsuarioController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UsuarioController.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\UsuarioController.cs",
+              "RelativeToolTip": "Controllers\\UsuarioController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:12:49.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ValuesController1.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\ValuesController1.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController1.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\ValuesController1.cs",
+              "RelativeToolTip": "Controllers\\ValuesController1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:12:21.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "Controllers\\ValuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T21:11:25.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-28T22:04:14.692Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
