@@ -32,4 +32,4 @@ C:\Users\wcfre\Desktop\End to End Engineering C#\Modulo 4\ModuloAPI\obj\Debug\ne
 C:\Users\wcfre\Desktop\End to End Engineering C#\Modulo 4\ModuloAPI\obj\Debug\net8.0\ModuloAPI.pdb
 C:\Users\wcfre\Desktop\End to End Engineering C#\Modulo 4\ModuloAPI\obj\Debug\net8.0\ModuloAPI.genruntimeconfig.cache
 C:\Users\wcfre\Desktop\End to End Engineering C#\Modulo 4\ModuloAPI\obj\Debug\net8.0\ref\ModuloAPI.dll
-C:\Users\wcfre\Desktop\End to End Engineering C#\Modulo 4\ModuloAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\wcfre\Desktop\End to End Engineering C#\Modulo 4\ModuloAPI\obj\Debug\net8.0\ModuloAPI.sourcelink.json
