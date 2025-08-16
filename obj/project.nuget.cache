@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "+JpTGyXlJck=",
+  "dgSpecHash": "DFpMNEr0kxY=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wcfre\\Desktop\\End to End Engineering C#\\Modulo 4\\ModuloAPI\\ModuloAPI.csproj",
+  "projectFilePath": "C:\\Users\\wcfre\\OneDrive\\Área de Trabalho\\Curso C#\\trilha-net-web-api\\ModuloAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wcfre\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\wcfre\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
